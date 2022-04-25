@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wagui.genet@gmail.com
+	name = Guillaume Genet
